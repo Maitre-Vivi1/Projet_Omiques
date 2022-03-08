@@ -1,0 +1,4 @@
+Application shiny de l'article, utile pour inclure des photos dans notre poster. On peut également lui donner des données à nous si on veut faire des simulations
+
+
+https://mebpr.shinyapps.io/activevp/
